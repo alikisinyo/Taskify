@@ -1,5 +1,3 @@
-Certainly! Here's a more detailed README.md for your project **Taskify**:
-
 # Taskify
 
 Taskify is a web application built using Python and Django. It helps users manage their tasks, create to-do lists, and stay organized.
