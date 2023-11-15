@@ -34,7 +34,7 @@ Pupity Mwenda (Frontend Developer)
    ```
 
 3. **Database Setup**:
-   - Create a PostgreSQL database.
+   - Create a SQLite database.
    - Update the database settings in `settings.py`.
    - Run migrations:
      ```bash
