@@ -67,19 +67,3 @@ Pupity Mwenda (Frontend Developer)
    - Use task lists to group related tasks.
    - Prioritize tasks based on urgency.
 
-## Contributing
-
-Contributions are welcome! If you find any issues or have suggestions, feel free to open a pull request.
-
-## Related Projects
-
-Explore other projects by the same authors:
-
-- [Another Cool Project](https://github.com/your-username/another-cool-project)
-- [Awesome Utility](https://github.com/your-username/awesome-utility)
-
-## Licensing
-
-Taskify is open-source and available under the [MIT License](LICENSE).
-
-Feel free to customize this README further to match your project's specifics. Happy coding! 🚀
